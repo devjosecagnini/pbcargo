@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('bin/pbcargo')
+console.log('bin/pbcargo');

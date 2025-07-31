@@ -1,8 +1,5 @@
-import { Command } from "commander";
+import { Command } from 'commander';
 
-export default class PBCargoCommand extends Command{
-	static teste(): void {
-
-	}
+export default class PBCargoCommand extends Command {
+	static teste(): void {}
 }
-
