@@ -20,10 +20,6 @@ export class PBCargo extends PBCargoCommand {
 				console.log(text);
 			});
 
-		const a = '';
-
-		console.log(a);
-
 		return pbCargo;
 	}
 
